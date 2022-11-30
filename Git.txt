@@ -1,0 +1,12 @@
+1.git config --global user.name "Abhinav PP"
+(and email)
+2.git commit -m "anything"
+<<<<<<< HEAD
+3.git add "file name"
+4.git branch name
+5.git merger branchName
+6.git branch
+7.git stash =>for undo the folder or last commit
+=======
+3.git add "file name"
+>>>>>>> feature
